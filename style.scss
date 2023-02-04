@@ -1,5 +1,34 @@
 $variavel: #A2A2A2;
+$corDoBotao: red;
+
+@mixin flexbox ($alinhamentoHorizontal, $alinhamentoVertical) {
+    display: flex;
+    justify-content: $alinhamentoHorizontal;
+    align-items: $alinhamentoVertical;
+}
 
 body {
     background-color: $variavel;
+
+    div.container {
+        @include flexbox(center, center);
+        height: 100vh;
+
+        input {
+            border-radius: 15px;
+        }
+    
+        #botao {
+            border-radius: 5px;
+            background-color: $corDoBotao;
+    
+            &:hover {
+    
+                background-color: #A2A2A2;
+            }
+        }
+
+    }
 }
+
+
