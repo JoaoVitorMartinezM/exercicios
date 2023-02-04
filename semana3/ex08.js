@@ -2,6 +2,7 @@
 const mensagem = document.getElementById("mensagem");
 const divisao = document.getElementById("divisao");
 
+
 function adicionar() {
     mensagem.value==="" ? window.alert("Digite uma mensagem para exibir na página") : divisao.innerHTML = `<h1>${mensagem.value}</h1>`;
 
