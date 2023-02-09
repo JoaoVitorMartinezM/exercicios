@@ -1,0 +1,10 @@
+
+
+Abstração: É pensar em objetos da vida real que estão presentes em um processo, e abstrair/filtrar as características desse objetos que 
+realmente faz sentido para o processo/aplicação;
+
+Herança: Objetos podem herdar das superclasses atributos e comportamentos;
+
+Encapsulamento: É proteger suas classes, objetos, atributos e métodos de alteração, e visibilidade de qualquer parte do código, senão a que realmente faz sentido.
+
+Polimorfismo: Fortemente ligado com as implementações de interfaces, para modificar comportamentos de objetos. Fazendo acoplamento de objetos com outros objetos diferentes.

@@ -18,3 +18,5 @@ function mostrar() {
     mensagem==null ? window.alert("Sem mensagem na memória") : divisao.innerHTML = `<h1>${mensagem}</h1>`;
 
 }
+
+

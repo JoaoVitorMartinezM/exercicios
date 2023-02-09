@@ -1,0 +1,7 @@
+O javascript foi criado para adicionar dinamismo às páginas web. Contudo, os browsers da época tinham suas próprias definições para o que seria
+o javascript e quais os métodos seriam aceitos. Tendo em vista este cenário entrou em cena o que conhecemos hoje como EcmaScript e responda com
+suas palavras o que seria o EcmaScript e o que ele trouxe de benefícios para o desenvolvimento web?
+
+O EcmaScript é a padronização do que os navegadores devem interpretar do javascript, dessa forma evitando que o código javascript seja interpretado de um jeito no Edge e diferente
+no firefox por exemplo.
+
