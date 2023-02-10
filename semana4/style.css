@@ -1,0 +1,18 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+#container {
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#tabela {
+    width: 700px;
+    height: auto;
+}
